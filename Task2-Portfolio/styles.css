@@ -1,0 +1,24 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e9ecef;
+}
+
+header {
+    text-align: center;
+    background-color: #6c757d;
+    color: white;
+    padding: 20px;
+}
+
+section {
+    padding: 20px;
+    margin: 10px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.skills ul {
+    list-style: square;
+}
